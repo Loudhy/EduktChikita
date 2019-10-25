@@ -40,7 +40,7 @@
             // txtNombreUsuario
             // 
             this.txtNombreUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.txtNombreUsuario.Location = new System.Drawing.Point(198, 213);
+            this.txtNombreUsuario.Location = new System.Drawing.Point(198, 218);
             this.txtNombreUsuario.Name = "txtNombreUsuario";
             this.txtNombreUsuario.Size = new System.Drawing.Size(375, 26);
             this.txtNombreUsuario.TabIndex = 1;
