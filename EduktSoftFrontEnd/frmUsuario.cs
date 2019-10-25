@@ -33,5 +33,10 @@ namespace EduktSoftFrontEnd
             bordesRedondeados.BorderRedondoButton(btnIngresar);
             lblErrorInicioSesion.Visible = false;
         }
+
+        private void txtNombreUsuario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
