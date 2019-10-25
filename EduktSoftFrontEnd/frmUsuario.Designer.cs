@@ -78,7 +78,7 @@
             this.btnIngresar.FlatAppearance.BorderSize = 0;
             this.btnIngresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIngresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnIngresar.Location = new System.Drawing.Point(312, 363);
+            this.btnIngresar.Location = new System.Drawing.Point(590, 171);
             this.btnIngresar.Name = "btnIngresar";
             this.btnIngresar.Size = new System.Drawing.Size(136, 39);
             this.btnIngresar.TabIndex = 3;
